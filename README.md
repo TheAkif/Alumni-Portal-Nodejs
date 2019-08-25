@@ -1,7 +1,7 @@
 # Alumni-Portal-Guide
 
 
-**To use ALUMNI PORTAL first you have to open XAMPP Control Panel.**
+**To use ALUMNI PORTAL first you have to run npm start inside the project path.**
 
 *Then start Apache and MYSQL servers.*
 
