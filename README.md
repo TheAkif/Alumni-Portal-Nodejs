@@ -1,9 +1,9 @@
 # Alumni-Portal-Guide
 
 
-**To use ALUMNI PORTAL first you have to run npm start inside the project path.**
+**To use ALUMNI PORTAL first you have to run npm install then npm start inside the project path.**
 
-*Then start Apache and MYSQL servers.*
+*Then start MYSQL servers.*
 
 1.	Include that SQL file named (*university*.sql) provided in this zip file in your xamp databases as a new database. 
 2.	It works like you have to first register a university by visiting http://localhost:PORT( WHATEVER YOU ARE USING)/project/
